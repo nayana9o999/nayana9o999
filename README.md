@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @nayana9o999
-- 👀 I’m interested in ;p
-- 🌱 I’m currently learning ;p
-- 💞️ I’m looking to collaborate on ;p
-- 📫 How to reach me ;p
-- 😄 Pronouns: ;p
-- ⚡ Fun fact: ;p
+👋 Hi, I’m @nayana9o999
+👀 I’m passionate about AI and currently diving deep into learning more.
+🌱 I’m continuously exploring new AI concepts and techniques to grow my skills.
+💞️ I’m looking to collaborate on AI-driven projects or anything related to tech innovation.
+📫 Feel free to reach out via GitHub or through my contact details.
+😄 Pronouns: She/Her
 
 <!---
 nayana9o999/nayana9o999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
