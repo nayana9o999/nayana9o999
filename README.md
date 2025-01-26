@@ -2,7 +2,6 @@
 👀 I’m passionate about AI and currently diving deep into learning more.
 🌱 I’m continuously exploring new AI concepts and techniques to grow my skills.
 💞️ I’m looking to collaborate on AI-driven projects or anything related to tech innovation.
-📫 Feel free to reach out via GitHub or through my contact details.
 😄 Pronouns: She/Her
 
 <!---
